@@ -1,0 +1,10 @@
+aiogam
+time
+emoji
+asyncio
+urllib
+json
+bs4
+requests
+cloudscraper
+lxml
